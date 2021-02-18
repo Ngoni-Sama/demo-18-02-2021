@@ -37,7 +37,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     child: Text('+'),
                   ),
                 ),
-                maxLength: 10,
+                maxLength: 19,
                 keyboardType: TextInputType.number,
                 controller: _controller,
               ),
