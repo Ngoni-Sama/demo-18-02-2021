@@ -31,7 +31,7 @@ class _LoginScreenState extends State<LoginScreen> {
               margin: EdgeInsets.only(top: 40, right: 10, left: 10),
               child: TextField(
                 decoration: InputDecoration(
-                  hintText: '+35975547854580',
+                  hintText: '35975547854580',
                   prefix: Padding(
                     padding: EdgeInsets.all(4),
                     child: Text('+'),
